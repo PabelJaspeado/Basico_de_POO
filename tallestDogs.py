@@ -1,6 +1,6 @@
 from dogs import Dogs
 
-class tallestDogs(Dogs):
+class TallestDogs(Dogs):
     typesize = []
 
     def __init__(self, name, age, breed, typesize):
